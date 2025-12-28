@@ -1,8 +1,10 @@
 <div align="center">
 
-<!-- Animated Border Top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Dilasha%20Shakya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✨%20Crafting%20Digital%20Experiences%20with%20Purpose&descAlignY=51&descSize=18" />
+<!-- Added animated typing effect only on the name with Orbitron font -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Dilasha+Shakya" alt="Typing Name" />
 
+<!-- Replaced monitor with MacBook laptop frame and personalized intro -->
+<div style="position: relative; margin: 40px auto; max-width: 800px;">
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+impactful+software+with+purpose+%E2%9C%A8;CS+Student+%7C+AI+Enthusiast+%F0%9F%92%BB;Bridging+the+gap+between+logic+and+design+%F0%9F%9A%80" />
