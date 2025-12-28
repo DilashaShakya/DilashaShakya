@@ -1,11 +1,11 @@
 <!-- Top Border -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=75&fontAlignY=40&animation=twinkling&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=80&fontAlignY=40&animation=fadeIn&theme=tokyonight" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+impactful+software+with+purpose+%E2%9C%A8;CS+Student+%7C+AI+Enthusiast+%F0%9F%92%BB;Bridging+the+gap+between+logic+and+design+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dilasha!+%E2%9C%A8;Building+impactful+software+with+purpose+%F0%9F%92%BB;AI+Enthusiast+%7C+Frontend+Explorer;Bridging+logic+and+creativity+%F0%9F%8C%9F" />
 </p>
 
 <div align="center">
@@ -14,13 +14,13 @@
 
 ### ✨ About Me
 I’m a **Computer Science student at Minnesota State University, Mankato**.  
-I thrive on building projects that bridge the gap between **logic, design, and real-world impact**.
+I love crafting digital experiences that are as beautiful as they are functional.
 
 **My interests include:**
-🚀 **AI & ML** (NLP, Sentiment Analysis)  
-🎨 **Frontend & Full-stack Development**  
-💡 **UI/UX Design**  
-🔍 **Research-oriented Problem Solving**
+🚀 **AI & Machine Learning**  
+🎨 **Frontend & Full-stack Magic**  
+💡 **User-Centric UI/UX Design**  
+🔍 **Solving Problems with Data**
 
 ---
 
