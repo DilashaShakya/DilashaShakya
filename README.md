@@ -4,50 +4,6 @@
 
 <div style="position: relative; margin: 40px auto; max-width: 800px;">
   
-<!-- MacBook Laptop Frame -->
-<table>
-<tr>
-<td style="background: #000000; border: 2px solid #F78FB3; border-radius: 8px 8px 0 0; padding: 25px; box-shadow: 0 10px 40px rgba(247, 143, 179, 0.3);">
-
-<div align="left" style="margin-bottom: 20px; padding: 8px; background: #1e1e1e; border-radius: 6px;">
-  <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; margin-right: 8px;"></span>
-  <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; margin-right: 8px;"></span>
-  <span style="display: inline-block; width: 12px; height: 12px; background: #27c93f; border-radius: 50%;"></span>
-  <span style="margin-left: 15px; color: #666; font-family: monospace; font-size: 12px;">README.md</span>
-</div>
-
-<div align="left" style="font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.8; color: #c0caf5;">
-<span style="color: #F78FB3;">const</span> <span style="color: #7dcfff;">developer</span> <span style="color: #c0caf5;">=</span> <span style="color: #9ece6a;">{</span><br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">name:</span> <span style="color: #9ece6a;">"Dilasha Shakya"</span>,<br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">description:</span> <span style="color: #9ece6a;">"I'm a CS student who enjoys building thoughtful, user-friendly software."</span>,<br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">skills:</span> <span style="color: #9ece6a;">{</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">languages:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"JavaScript/TypeScript", "Python", "Java", "SQL", "HTML/CSS", "Electron JS"</span><span style="color: #e0af68;">]</span>,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">backend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Node.js", "Express", "Django REST Framework", "REST API design", "JWT"</span><span style="color: #e0af68;">]</span>,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">frontend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"React", "Zustand", "Axios", "Tailwind CSS", "Accessible UI patterns"</span><span style="color: #e0af68;">]</span>,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">data:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"MongoDB", "PostgreSQL", "pandas/NumPy", "Web scraping (Requests/BeautifulSoup/Selenium)"</span><span style="color: #e0af68;">]</span>,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">devOps:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Docker", "Git/GitHub workflow", "Logging/Metrics"</span><span style="color: #e0af68;">]</span>,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">design:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Adobe Illustrator", "Photoshop", "Canva"</span><span style="color: #e0af68;">]</span><br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">currentlyLearning:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"RAG", "LLMs"</span><span style="color: #e0af68;">]</span><br/>
-<span style="color: #9ece6a;">}</span><span style="color: #c0caf5;">;</span>
-</div>
-
-</td>
-</tr>
-<tr>
-<td style="background: linear-gradient(to bottom, #2d2d2d 0%, #1a1a1a 100%); height: 8px; border-radius: 0 0 8px 8px;"></td>
-</tr>
-<tr>
-<td align="center" style="padding-top: 5px;">
-<div style="width: 200px; height: 4px; background: linear-gradient(to right, transparent 0%, #2d2d2d 20%, #2d2d2d 80%, transparent 100%); border-radius: 2px;"></div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
-
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
 <h2 align="center">📋 About Me</h2>
 
