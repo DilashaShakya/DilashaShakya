@@ -1,45 +1,40 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
 
-  <br/><br/>
+<br/><br/>
 
-  <h2 align="center">📋 About Me</h2>
+<h2 align="center">📋 About Me</h2>
 
-  <table align="center" cellpadding="0" cellspacing="0">
-    <tr>
-      <td style="padding:2px; border-radius:18px; background:#F78FB3;">
-        <table cellpadding="0" cellspacing="0">
-          <tr>
-            <td style="background:#0b0b0b; border-radius:16px; padding:22px; width:760px;">
-              <div style="font-family: Quicksand, Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7; text-align:left;">
-                <p style="margin:0;">
-                  I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my final semester pursuing my bachelor’s degree.
-                </p>
+<table align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding:2px; border-radius:18px; background:#F78FB3;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" style="background:#0b0b0b; border-radius:16px; padding:22px; width:760px;">
+<div align="center" style="font-family: Quicksand, Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7;">
+<p style="margin:0;">
+I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my final semester pursuing my bachelor’s degree.
+</p>
+<p style="margin:12px 0 0 0;">
+I enjoy building software and user interfaces and have experience working with AI, machine learning, and large language models.
+</p>
+<p style="margin:12px 0 0 0;">
+I’m seeking opportunities to learn, grow, and contribute as a developer.
+</p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
-                <p style="margin:12px 0 0 0;">
-                  I enjoy building software and user interfaces and have experience working with AI, machine learning, and large language models.
-                </p>
+<br/>
 
-                <p style="margin:12px 0 0 0;">
-                  I’m seeking opportunities to learn, grow, and contribute as a developer.
-                </p>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
 </div>
-
-
-
 
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
@@ -87,21 +82,19 @@
 
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
+<div align="center">
+
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/dilashaShakya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/DilashaShakya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:dilashakya@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DilashaShakya&label=Profile%20Views&color=F78FB3&style=flat-square" alt="Profile Views" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F78FB3,50:F5A3BE,100:F78FB3&height=120&section=footer" />
 
