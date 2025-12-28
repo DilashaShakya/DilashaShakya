@@ -1,54 +1,48 @@
-<!--
-  Hi, I'm Dilasha Shakya 🌼
-  Thank you for stopping by.
-
-  I’m a CS/CIT student who enjoys building
-  thoughtful, user-friendly software.
--->
-
+<!-- Top Border -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=28&duration=3500&pause=500&color=F7D400&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dilasha+Shakya+🌼;CS+%2F+CIT+Student+%7C+AI+and+Frontend+Development" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=80&animation=fadeIn&fontAlignY=35&theme=gradient" />
 </p>
 
----
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=30&duration=3500&pause=500&color=F7D400&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dilasha+Shakya+CS+Student" />
+</p>
 
-### About me
-I’m a **Computer Science / CIT student at Minnesota State University, Mankato**.  
-I like working on projects that combine **logic, design, and real-world impact**.
-
-My interests include:
-- AI and machine learning (NLP, sentiment analysis)
-- Frontend and full-stack development
-- Building clean, understandable user interfaces
-- Research-oriented and problem-solving projects
-
-I enjoy learning by building and improving things step by step.
+<div align="center">
 
 ---
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,django,mongodb,postgres,git,github,html,css,tailwind,figma)](https://skillicons.dev)
+### ✨ About Me
+I’m a **Computer Science student at Minnesota State University, Mankato**.  
+I thrive on building projects that bridge the gap between **logic, design, and real-world impact**.
+
+**My interests include:**
+🚀 **AI & ML** (NLP, Sentiment Analysis)  
+🎨 **Frontend & Full-stack Development**  
+💡 **UI/UX Design**  
+🔍 **Research-oriented Problem Solving**
 
 ---
 
-### Currently learning
-[![Learning](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+### 🛠️ Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,django,mongodb,postgres,git,github,html,css,tailwind,figma&perline=8)](https://skillicons.dev)
 
 ---
 
-### Projects & experience
-- AI/ML research projects involving text analysis and classification  
-- Full-stack applications using React with Django or Node.js  
-- Frontend work focused on usability and clean design  
-- Coursework and hands-on experience in security and systems concepts  
+### 📚 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=aws,docker,typescript)](https://skillicons.dev)
 
 ---
 
-### Connect with me
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- GitHub: https://github.com/DilashaShakya  
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DilashaShakya)
 
 ---
 
-### Resume
-📄 [Download my resume](YOUR_RESUME_LINK)
+</div>
+
+<!-- Bottom Border -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=gradient" />
+</p>
