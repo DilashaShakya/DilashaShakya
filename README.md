@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Added animated typing effect only on the name with Orbitron font -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Dilasha+Shakya" alt="Typing Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
 
-<!-- Replaced monitor with MacBook laptop frame and personalized intro -->
 <div style="position: relative; margin: 40px auto; max-width: 800px;">
   
 <!-- MacBook Laptop Frame -->
 <table>
 <tr>
-<td style="background: #000000; border: 2px solid #2d2d2d; border-radius: 8px 8px 0 0; padding: 25px; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);">
+<td style="background: #000000; border: 2px solid #F78FB3; border-radius: 8px 8px 0 0; padding: 25px; box-shadow: 0 10px 40px rgba(247, 143, 179, 0.3);">
 
-<!-- MacBook Top Bar (window controls) -->
 <div align="left" style="margin-bottom: 20px; padding: 8px; background: #1e1e1e; border-radius: 6px;">
   <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; margin-right: 8px;"></span>
   <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; margin-right: 8px;"></span>
@@ -19,24 +16,24 @@
   <span style="margin-left: 15px; color: #666; font-family: monospace; font-size: 12px;">README.md</span>
 </div>
 
-<!-- Code-style intro with syntax highlighting -->
 <div align="left" style="font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.8; color: #c0caf5;">
-<span style="color: #7aa2f7;">const</span> <span style="color: #7dcfff;">developer</span> <span style="color: #c0caf5;">=</span> <span style="color: #9ece6a;">{</span><br/>
+<span style="color: #F78FB3;">const</span> <span style="color: #7dcfff;">developer</span> <span style="color: #c0caf5;">=</span> <span style="color: #9ece6a;">{</span><br/>
 &nbsp;&nbsp;<span style="color: #bb9af7;">name:</span> <span style="color: #9ece6a;">"Dilasha Shakya"</span>,<br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">education:</span> <span style="color: #9ece6a;">"CS @ Minnesota State University, Mankato"</span>,<br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">passion:</span> <span style="color: #9ece6a;">"Building thoughtful, user-friendly software"</span>,<br/>
-&nbsp;&nbsp;<span style="color: #bb9af7;">description:</span> <span style="color: #9ece6a;">`</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #9ece6a;">I'm a CS student who enjoys building things and solving problems.</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #9ece6a;">I care about creating software that's useful, accessible, and</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #9ece6a;">well-designed. My interests range from AI and machine learning</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #9ece6a;">to full-stack web development.</span><br/>
-&nbsp;&nbsp;<span style="color: #9ece6a;">`</span><br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">description:</span> <span style="color: #9ece6a;">"I'm a CS student who enjoys building thoughtful, user-friendly software."</span>,<br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">skills:</span> <span style="color: #9ece6a;">{</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">languages:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"JavaScript/TypeScript", "Python", "Java", "SQL", "HTML/CSS", "Electron JS"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">backend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Node.js", "Express", "Django REST Framework", "REST API design", "JWT"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">frontend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"React", "Zustand", "Axios", "Tailwind CSS", "Accessible UI patterns"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">data:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"MongoDB", "PostgreSQL", "pandas/NumPy", "Web scraping (Requests/BeautifulSoup/Selenium)"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">devOps:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Docker", "Git/GitHub workflow", "Logging/Metrics"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">design:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Adobe Illustrator", "Photoshop", "Canva"</span><span style="color: #e0af68;">]</span><br/>
+&nbsp;&nbsp;<span style="color: #9ece6a;">}</span>,<br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">currentlyLearning:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"RAG", "LLMs"</span><span style="color: #e0af68;">]</span><br/>
 <span style="color: #9ece6a;">}</span><span style="color: #c0caf5;">;</span>
 </div>
 
 </td>
 </tr>
-<!-- MacBook Base/Stand -->
 <tr>
 <td style="background: linear-gradient(to bottom, #2d2d2d 0%, #1a1a1a 100%); height: 8px; border-radius: 0 0 8px 8px;"></td>
 </tr>
@@ -49,8 +46,7 @@
 
 </div>
 
-<!-- Elegant divider matching theme -->
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=2" />
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
 ## 🛠️ Tech Stack
 
@@ -75,9 +71,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=2" />
-
-<!-- Removed GitHub stats section as requested -->
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
 ## 🌐 Connect With Me
 
@@ -91,13 +85,11 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DilashaShakya&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DilashaShakya&label=Profile%20Views&color=F78FB3&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Simple bottom border with Tokyo Night theme colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F78FB3,50:F5A3BE,100:F78FB3&height=120&section=footer" />
 
 <sub>Thanks for stopping by! Let's build something great together.</sub>
 
