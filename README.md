@@ -1,41 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
 
-<div style="position: relative; margin: 40px auto; max-width: 800px;">
-  
+  <br/><br/>
 
-<h2 align="center">📋 About Me</h2>
+  <h2 align="center">📋 About Me</h2>
 
-<table align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="padding:2px; border-radius:18px; background:#F78FB3;">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td style="background:#0b0b0b; border-radius:16px; padding:22px; max-width:760px;">
-            
-            <div style="font-family: Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7;">
-              <p style="margin:0;">
-                I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my
-                final semester pursuing my bachelor’s degree.
-              </p>
+  <table align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding:2px; border-radius:18px; background:#F78FB3;">
+        <table cellpadding="0" cellspacing="0">
+          <tr>
+            <td style="background:#0b0b0b; border-radius:16px; padding:22px; width:760px;">
+              <div style="font-family: Quicksand, Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7; text-align:left;">
+                <p style="margin:0;">
+                  I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my final semester pursuing my bachelor’s degree.
+                </p>
 
-              <p style="margin:12px 0 0 0;">
-                I enjoy building software and user interfaces and have experience working
-                with AI, machine learning, and large language models.
-              </p>
+                <p style="margin:12px 0 0 0;">
+                  I enjoy building software and user interfaces and have experience working with AI, machine learning, and large language models.
+                </p>
 
-              <p style="margin:12px 0 0 0;">
-                I’m seeking opportunities to learn, grow, and contribute as a developer.
-              </p>
-            </div>
+                <p style="margin:12px 0 0 0;">
+                  I’m seeking opportunities to learn, grow, and contribute as a developer.
+                </p>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+  <br/>
+
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+
+</div>
+
 
 
 
