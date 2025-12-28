@@ -1,7 +1,7 @@
-<!-- Top Border -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=75&fontAlignY=40&animation=twinkling&theme=tokyonight" />
-</p>
+<div align="center">
+
+<!-- Animated Border Top -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Dilasha%20Shakya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✨%20Crafting%20Digital%20Experiences%20with%20Purpose&descAlignY=51&descSize=18" />
 
 <!-- Typing Intro -->
 <p align="center">
