@@ -1,11 +1,11 @@
 <!-- Top Border -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=80&animation=fadeIn&fontAlignY=35&theme=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dilasha%20Shakya&fontSize=75&fontAlignY=40&animation=twinkling&theme=tokyonight" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=30&duration=3500&pause=500&color=F7D400&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dilasha+Shakya+CS+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+impactful+software+with+purpose+%E2%9C%A8;CS+Student+%7C+AI+Enthusiast+%F0%9F%92%BB;Bridging+the+gap+between+logic+and+design+%F0%9F%9A%80" />
 </p>
 
 <div align="center">
@@ -44,5 +44,5 @@ I thrive on building projects that bridge the gap between **logic, design, and r
 
 <!-- Bottom Border -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&theme=tokyonight" />
 </p>
