@@ -36,7 +36,7 @@ I’m seeking opportunities to learn, grow, and contribute as a developer.
 
 </div>
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+<div align="center">
 
 ## 🛠️ Skills & Technologies
 
@@ -101,3 +101,4 @@ I’m seeking opportunities to learn, grow, and contribute as a developer.
 <sub>Thanks for stopping by! Let's build something great together.</sub>
 
 </div>
+<div>
