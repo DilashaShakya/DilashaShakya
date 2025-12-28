@@ -1,51 +1,88 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
 
-  <!-- Simple Creative Intro Card (no skills here) -->
-  <div style="margin: 28px auto; max-width: 860px; padding: 18px; border-radius: 18px;
-              border: 1px solid rgba(247,143,179,0.55);
-              background: linear-gradient(180deg, rgba(247,143,179,0.10), rgba(10,10,10,0.85));
-              box-shadow: 0 12px 30px rgba(247,143,179,0.18);">
+<div style="position: relative; margin: 40px auto; max-width: 800px;">
+  
+<!-- MacBook Laptop Frame -->
+<table>
+<tr>
+<td style="background: #000000; border: 2px solid #F78FB3; border-radius: 8px 8px 0 0; padding: 25px; box-shadow: 0 10px 40px rgba(247, 143, 179, 0.3);">
 
-    <!-- mini header -->
-    <div align="left" style="display:flex; align-items:center; justify-content:space-between; gap:10px;
-                              padding: 10px 12px; border-radius: 14px;
-                              background: rgba(15,15,15,0.75);
-                              border: 1px solid rgba(247,143,179,0.20);">
+<div align="left" style="margin-bottom: 20px; padding: 8px; background: #1e1e1e; border-radius: 6px;">
+  <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; background: #27c93f; border-radius: 50%;"></span>
+  <span style="margin-left: 15px; color: #666; font-family: monospace; font-size: 12px;">README.md</span>
+</div>
 
-      <div style="display:flex; align-items:center; gap:8px;">
-        <span style="display:inline-block; width:10px; height:10px; background:#ff5f56; border-radius:50%;"></span>
-        <span style="display:inline-block; width:10px; height:10px; background:#ffbd2e; border-radius:50%;"></span>
-        <span style="display:inline-block; width:10px; height:10px; background:#27c93f; border-radius:50%;"></span>
-        <span style="margin-left: 10px; color:#aaa; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px;">
-          intro.txt
-        </span>
-      </div>
+<div align="left" style="font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.8; color: #c0caf5;">
+<span style="color: #F78FB3;">const</span> <span style="color: #7dcfff;">developer</span> <span style="color: #c0caf5;">=</span> <span style="color: #9ece6a;">{</span><br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">name:</span> <span style="color: #9ece6a;">"Dilasha Shakya"</span>,<br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">description:</span> <span style="color: #9ece6a;">"I'm a CS student who enjoys building thoughtful, user-friendly software."</span>,<br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">skills:</span> <span style="color: #9ece6a;">{</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">languages:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"JavaScript/TypeScript", "Python", "Java", "SQL", "HTML/CSS", "Electron JS"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">backend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Node.js", "Express", "Django REST Framework", "REST API design", "JWT"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">frontend:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"React", "Zustand", "Axios", "Tailwind CSS", "Accessible UI patterns"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">data:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"MongoDB", "PostgreSQL", "pandas/NumPy", "Web scraping (Requests/BeautifulSoup/Selenium)"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">devOps:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Docker", "Git/GitHub workflow", "Logging/Metrics"</span><span style="color: #e0af68;">]</span>,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #bb9af7;">design:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"Adobe Illustrator", "Photoshop", "Canva"</span><span style="color: #e0af68;">]</span><br/>
+&nbsp;&nbsp;<span style="color: #bb9af7;">currentlyLearning:</span> <span style="color: #e0af68;">[</span><span style="color: #9ece6a;">"RAG", "LLMs"</span><span style="color: #e0af68;">]</span><br/>
+<span style="color: #9ece6a;">}</span><span style="color: #c0caf5;">;</span>
+</div>
 
-      <span style="color: rgba(247,143,179,0.9); font-family: ui-sans-serif, system-ui; font-size: 12px;">
-        ✨ learning + building
-      </span>
-    </div>
-
-    <!-- content -->
-    <div align="left" style="margin-top: 12px; padding: 14px; border-radius: 14px;
-                             background: rgba(0,0,0,0.55);
-                             border: 1px solid rgba(247,143,179,0.15);
-                             font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-                             font-size: 14px; line-height: 1.75; color: #e6e6e6;">
-      <span style="color:#F78FB3;">Hi!</span> I'm <b>Dilasha Shakya</b> 👋<br/>
-      <span style="color:#c0caf5;">CS student</span> who enjoys building thoughtful, user-friendly software.<br/><br/>
-
-      <span style="color:#F78FB3;">Interests:</span> Full-stack • AI/ML • UI/UX • Open Source<br/>
-      <span style="color:#F78FB3;">Currently learning:</span> RAG • LLMs
-    </div>
-
-  </div>
-
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+</td>
+</tr>
+<tr>
+<td style="background: linear-gradient(to bottom, #2d2d2d 0%, #1a1a1a 100%); height: 8px; border-radius: 0 0 8px 8px;"></td>
+</tr>
+<tr>
+<td align="center" style="padding-top: 5px;">
+<div style="width: 200px; height: 4px; background: linear-gradient(to right, transparent 0%, #2d2d2d 20%, #2d2d2d 80%, transparent 100%); border-radius: 2px;"></div>
+</td>
+</tr>
+</table>
 
 </div>
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+
+<h2 align="center">📋 About Me</h2>
+
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding:2px; border-radius:18px; background:#F78FB3;">
+      <table cellpadding="0" cellspacing="0">
+        <tr>
+          <td style="background:#0b0b0b; border-radius:16px; padding:22px; max-width:760px;">
+            
+            <div style="font-family: Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7;">
+              <p style="margin:0;">
+                I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my
+                final semester pursuing my bachelor’s degree.
+              </p>
+
+              <p style="margin:12px 0 0 0;">
+                I enjoy building software and user interfaces and have experience working
+                with AI, machine learning, and large language models.
+              </p>
+
+              <p style="margin:12px 0 0 0;">
+                I’m seeking opportunities to learn, grow, and contribute as a developer.
+              </p>
+            </div>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
 
 ## 🛠️ Skills & Technologies
@@ -89,3 +126,27 @@
 ### Currently Learning
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/DilashaShakya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DilashaShakya&label=Profile%20Views&color=F78FB3&style=flat-square" alt="Profile Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F78FB3,50:F5A3BE,100:F78FB3&height=120&section=footer" />
+
+<sub>Thanks for stopping by! Let's build something great together.</sub>
+
+</div>
