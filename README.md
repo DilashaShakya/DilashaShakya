@@ -17,7 +17,7 @@
 I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my final semester pursuing my bachelor’s degree.
 </p>
 <p style="margin:12px 0 0 0;">
-I enjoy building software and user interfaces and have experience working with AI, machine learning, and large language models.
+I enjoy building software and user interfaces.
 </p>
 <p style="margin:12px 0 0 0;">
 I’m seeking opportunities to learn, grow, and contribute as a developer.
