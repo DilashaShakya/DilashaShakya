@@ -1,31 +1,46 @@
 <div align="center">
 
-<!-- Simple Border Top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=3" />
+<!-- Enhanced border with animated wave pattern in Tokyo Night theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=120&section=header&text=&fontSize=0" />
 
-<!-- Header with Device Frame -->
+<!-- Header -->
 <div>
   
 # 👋 Hello, I'm Dilasha Shakya
 
+<!-- Device-styled About Me section with monitor frame -->
+<div style="position: relative; margin: 30px auto; max-width: 700px;">
+  
+<!-- Monitor Frame -->
 <table>
 <tr>
-<td>
+<td style="background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%); border: 3px solid #414868; border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(122, 162, 247, 0.2);">
+
+<!-- Monitor Top Bar -->
+<div align="left" style="margin-bottom: 15px;">
+  <span style="display: inline-block; width: 12px; height: 12px; background: #f7768e; border-radius: 50%; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; background: #e0af68; border-radius: 50%; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; background: #9ece6a; border-radius: 50%;"></span>
+</div>
 
 ```yaml
-🎓 Education: Computer Science @ Minnesota State University, Mankato
-💡 Interests: AI & ML | Full-stack Development | UI/UX Design
+name: "Dilasha Shakya"
+education: "Computer Science @ Minnesota State University, Mankato"
+interests: ["AI & ML", "Full-stack Development", "UI/UX Design"]
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Frontend+Developer;Problem+Solver;Creative+Builder" alt="Typing SVG" />
+</div>
+
+<!-- Simple typing animation matching Tokyo Night colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Full-stack+Developer;Problem+Solver;Creative+Builder" alt="Typing SVG" />
 
 </div>
 
-<!-- Simple Divider -->
+<!-- Elegant divider matching theme -->
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=2" />
 
 ## 🛠️ Tech Stack
@@ -51,7 +66,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- Simple Divider -->
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=2" />
 
 ## 📊 GitHub Stats
@@ -65,7 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilashaShakya&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" alt="GitHub Streak" />
 </div>
 
-<!-- Simple Divider -->
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=2" />
 
 ## 🌐 Connect With Me
@@ -85,8 +98,8 @@
   <img src="https://komarev.com/ghpvc/?username=DilashaShakya&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Simple Border Bottom -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=3" />
+<!-- Bottom wave border matching top -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=120&section=footer" />
 
 <sub>Thanks for stopping by! Let's build something great together.</sub>
 
