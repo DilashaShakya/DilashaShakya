@@ -14,7 +14,7 @@
 <td align="center" style="background:#0b0b0b; border-radius:16px; padding:22px; width:760px;">
 <div align="center" style="font-family: Quicksand, Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7;">
 <p style="margin:0;">
-I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a computer science student in my final semester pursuing my bachelor’s degree.
+I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a recent omputer science graduate.
 </p>
 <p style="margin:12px 0 0 0;">
 I enjoy building software and user interfaces.
