@@ -1,43 +1,14 @@
-<div align="center">
+## 👋 Hi, I'm Dilasha
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I'm+Dilasha.;Happy+to+share+my+learning." alt="Typing Name" />
+🎓 Computer Science Graduate from Minnesota State University, Mankato
 
-<br/><br/>
+💻 Full-Stack Developer focused on building scalable and user-friendly applications
 
-<h2 align="center">🌺 About Me</h2>
+🤖 Interested in AI, Machine Learning, and Software Engineering
 
-<table align="center" cellpadding="0" cellspacing="0">
-<tr>
-<td style="padding:2px; border-radius:18px; background:#F78FB3;">
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" style="background:#0b0b0b; border-radius:16px; padding:22px; width:760px;">
-<div align="center" style="font-family: Quicksand, Arial, sans-serif; color:#ffffff; font-size:16px; line-height:1.7;">
-<p style="margin:0;">
-I’m <b style="color:#F78FB3;">Dilasha Shakya</b>, a recent omputer science graduate.
-</p>
-<p style="margin:12px 0 0 0;">
-I enjoy building software and user interfaces.
-</p>
-<p style="margin:12px 0 0 0;">
-I’m seeking opportunities to learn, grow, and contribute as a developer.
-</p>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+🚀 Currently building web applications and exploring RAG and LLM systems
 
-<br/>
-
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=F78FB3&height=2" />
-
-</div>
-
-<div align="center">
-
+---
 ## 🛠️ Skills & Technologies
 
 ### Languages
